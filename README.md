@@ -1,4 +1,4 @@
-                                        **HANGMAN**
+                                                  **HANGMAN**
 The Hangman game randomly selects a city name from a list of Indian cities. 
 The player needs to guess the letters in the city's name within a limited number of attempts. 
 For each incorrect guess, a part of the hangman gets drawn. 
